@@ -52,8 +52,8 @@ with just a few taps, making it a simple yet effective time-saving tool.
 <h2>🖼️ App Preview</h2>
 
 <p align="center">
-  <img src="screenshots/home.png" width="220" />
-  <img src="screenshots/result.png" width="220" />
+  <img src="screenshots/home.jpeg" width="220" />
+  <img src="screenshots/result.jpeg" width="220" />
 </p>
 
 <p align="center">
