@@ -56,10 +56,6 @@ with just a few taps, making it a simple yet effective time-saving tool.
   <img src="screenshots/rseult.jpeg" width="220" />
 </p>
 
-<p align="center">
-  <i>(Add your app screenshots inside a <b>screenshots</b> folder)</i>
-</p>
-
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
