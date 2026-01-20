@@ -53,7 +53,7 @@ with just a few taps, making it a simple yet effective time-saving tool.
 
 <p align="center">
   <img src="screenshots/home.jpeg" width="220" />
-  <img src="screenshots/result.jpeg" width="220" />
+  <img src="screenshots/rseult.jpeg" width="220" />
 </p>
 
 <p align="center">
